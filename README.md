@@ -1,7 +1,7 @@
 # 表情包生成以及微信平台上传流程
 ## 第一章 表情包生成流程
 1. 登录图生图模型，比如即梦AI（https://jimeng.jianying.com）
-![alt text]([.\wechat-sticker-publish-workflow\images\4.png](https://github.com/wsk12363/wechat-sticker-publish-workflow/blob/main/images/4.png?raw=true))
+![alt text](https://raw.githubusercontent.com/wsk12363/wechat-sticker-publish-workflow/refs/heads/main/images/4.png)
 2. 上传一张小狗的图片，并使用提示词生成表情包
 > 第一段提示词：请分析我上传的这只小狗的照片，提炼出它的关键外貌特征（品种、毛色、体型、耳朵、眼睛、嘴巴、尾巴等）。然后基于这些特征，用 简洁可爱的微信表情包手绘风格 重新绘制这只小狗，背景为纯白色，确保形象适合制作系列表情。以后所有表情都将基于这个标准形象生成。
 ![alt text](.\wechat-sticker-publish-workflow\images\3.png)

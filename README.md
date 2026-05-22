@@ -1,4 +1,12 @@
 # 表情包生成以及微信平台上传流程
+
+## 目录
+- [第一章 表情包生成流程](#第一章-表情包生成流程)
+- [第二章 微信表情包上传流程](#第二章-微信表情包上传流程)
+- [最后 Q&A](#最后-q&a)
+
+---
+
 ## 第一章 表情包生成流程
 1. 登录图生图模型，比如即梦AI（https://jimeng.jianying.com）
 ![alt text](https://raw.githubusercontent.com/wsk12363/wechat-sticker-publish-workflow/refs/heads/main/images/4.png)
